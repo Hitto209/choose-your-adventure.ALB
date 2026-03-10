@@ -38,3 +38,44 @@ nav a:hover{
     background-color: white;
     color: red;
 }
+#flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 7rem;
+}
+.card{
+    max-width: 300px;
+    background-color: antiquewhite;
+    padding: 15px;
+    border-radius: 15px;
+    border-style: solid;
+    color: black;
+}
+.card-photo{
+    width: 150px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-photo img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.name, .species, .class{
+    text-align: center;
+}
+.name{
+    font-size: 2rem;
+}
+.species{
+    font-size: 1.75rem;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.class{
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    font-style: italic;
+}
