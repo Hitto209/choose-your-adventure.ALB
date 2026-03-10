@@ -79,3 +79,20 @@ nav a:hover{
     margin-bottom: 20px;
     font-style: italic;
 }
+#dice{
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    background-image: url(../img/d20.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#result{
+    text-align: center;
+    font-size: 4rem;
+    color: grey;
+}
