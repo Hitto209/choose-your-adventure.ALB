@@ -79,20 +79,26 @@ nav a:hover{
     margin-bottom: 20px;
     font-style: italic;
 }
-#dice{
+#D20, #D8{
     margin: auto;
     width: 400px;
     height: 400px;
-    background-image: url(../img/d20.png);
     display: flex;
     justify-content: center;
     align-items: center;
-    background-size: auto;
-    background-repeat: no-repeat;
-    background-size: cover;
+    margin-top: 50px;
 }
-#result{
+#D20-result, #D8-result{
     text-align: center;
     font-size: 4rem;
     color: grey;
+}
+#D20{
+    background-image: url(../img/d20.png);
+}
+#D8{
+    background-image: url(../img/d8.jpg);
+}
+button{
+    margin: 25px;
 }
