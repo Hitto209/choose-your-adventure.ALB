@@ -11,5 +11,5 @@
 
  The d8 will determine the damage dealt, the d20 will determine the success of 
  the action performed. If you have personal dice feel free to use them, if not 
- you can use an online dice roller like [this one](../html/dice.html). To get the dice you would like, click on the Dice. To get rid of the dice, right click and it will disappear.
+ you can use an online dice roller like [this one](https://gamedevhunterg.github.io/dice.html). To get the dice you would like, click on the Dice. To get rid of the dice, right click and it will disappear.
  
