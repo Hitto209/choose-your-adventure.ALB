@@ -11,10 +11,10 @@ You wake up holding your head and all you feel is throbbing pain... Everywhere.
 
 "I am..."
 
-- "Gwyndolin Dragonfang" (Human-PSI Warrior Fighter)
+- ["Gwyndolin Dragonfang" (Human-PSI Warrior Fighter)](./scene1A.md)
 
-- "Iarath Armash" (Topaz Dragonborn - Arcane Trickster Rogue)
+- ["Iarath Armash" (Topaz Dragonborn - Arcane Trickster Rogue)](./scene1B.md)
 
-- "Sabtha Hunzrar" (Drow- Illusionist Wizard)
+- ["Sabtha Hunzrar" (Drow- Illusionist Wizard)](./scene1C.md)
 
-- "Darkahm Strongkin" (Dwarf- Light Domain Cleric)
+- ["Darkahm Strongkin" (Dwarf- Light Domain Cleric)](scene1D.md)
