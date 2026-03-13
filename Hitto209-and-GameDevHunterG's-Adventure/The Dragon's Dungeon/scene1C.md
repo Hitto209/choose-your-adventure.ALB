@@ -9,7 +9,7 @@ The woman and the rest of the crowd around you look even more concerned than the
 > Sabtha Hunzrar, the reason you feel like you fell from the sky is because that's exactly what we saw happen to you? Do you really not remember?
 
 You are shocked. Of course you don't remember. The last thing you remember is setting up camp in the mountains. But why were you in the mountains?
-## Roll a history check
+## Roll a DC (Difficulty Class) 10 history check
 
 > [!TIP]
 > You can use the [Dice Roller](https://gamedevhunterg.github.io/dice.html) on the companion site to roll an ability check if you don't have your own dice.
