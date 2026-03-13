@@ -19,3 +19,6 @@ You are shocked. Of course you don't remember. The last thing you remember is se
 
 > [!IMPORTANT]
 > Iarath has a +3 modifier to history checks. Therefore, the outcome is the number rolled on the D20 plus an additional 3.
+
+- [You passed the check](./scene2A-IA.md)
+- [You failed the check](./scene2B-IA.md)
