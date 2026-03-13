@@ -14,5 +14,5 @@ You are shocked. Of course you don't remember. The last thing you remember is se
 > [!TIP]
 > You can use the [Dice Roller](https://gamedevhunterg.github.io/dice.html) on the companion site to roll an ability check if you don't have your own dice.
 
-> [!IMPROTANT]
+> [!IMPORTANT]
 > Sabtha has a +8 modifier to history checks. Therefore, the outcome is the number rolled on the D20 plus an additional 8.
