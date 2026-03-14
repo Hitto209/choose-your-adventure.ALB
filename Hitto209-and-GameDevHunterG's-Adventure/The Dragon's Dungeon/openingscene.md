@@ -3,13 +3,20 @@
 ## 🔨 "OUCH!" 
 
 You wake up holding your head and all you feel is throbbing pain... Everywhere. 
-"Ouch!" you say as you start getting up. At that moment you realise several people starring at you.
 
-👥 "....LLO" ... "I said Hello!" "Are you okay?" You look up blinking seeing this older woman with a staff. she looks 70 years of age but the feeling you are getting. No; she must be older.
+>Ouch! 
+You say as you start getting up. At that moment you realise several people starring at you.
 
-"Who are you?" She says. 
+👥👥👥👥👥👥👥
+You look up blinking seeing this older woman with a staff. she looks 70 years of age but the feeling you are getting. No; she must be older.
+> ...LLO ... I said Hello! Are you okay? 
 
-"I am..."
+You begin to blink rapidly to clear the rest of the hase.
+
+> Who are you? 
+She says. 
+
+> I am...
 
 - ["Gwyndolin Dragonfang" (Human-PSI Warrior Fighter)](./scene1A.md)
 

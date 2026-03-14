@@ -11,6 +11,9 @@ The woman and the rest of the crowd around you look even more concerned than the
 You are shocked. Of course you don't remember. The last thing you remember is setting up camp in the mountains. But why were you in the mountains?
 ## Roll a DC (Difficulty Class) 10 history check
 
+> [!NOTE]
+> In the most recent edition of Dungeons and Dragons the rule for ability checks, saving throws, and attack rolls is that you succeed if your result is greater than or equal to the DC (AC if it's an attack roll). To avoid confusion, that is the rule we will be using in *The Dragon's Dungeon.*
+
 > [!TIP]
 > You can use the [Dice Roller](https://gamedevhunterg.github.io/dice.html) on the companion site to roll an ability check if you don't have your own dice.
 
