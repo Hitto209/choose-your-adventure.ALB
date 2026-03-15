@@ -11,3 +11,4 @@ As farfetched as that explanation sounds, no other explanation that you can thin
 
 As you are about to ask for directions to the mountains, you feel like something is wrong. Then you realize that's because something IS wrong.
 
+["Where's my spellbook?"](./scene3-SH.md)
