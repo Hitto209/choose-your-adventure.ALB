@@ -26,5 +26,5 @@ Did he say dragon? You can't, in good conscience, accept Karl's terms. However, 
 > [!IMPORTANT]
 > Sabtha has a modifier of +4 for persuasion checks. So the result will be the number you roll on the D20 plus 4.
 
-- [You passed the check](./scene5a-SH.md)
+- [You passed the check](./scene5c-SH.md)
 - [You failed the check](./scene5d-SH.md)
