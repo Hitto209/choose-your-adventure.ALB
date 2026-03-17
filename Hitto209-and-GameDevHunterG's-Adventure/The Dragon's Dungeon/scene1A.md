@@ -22,6 +22,6 @@ ___________________________________________
 
 - ["What do I have to do to redeem my bloodline?"](./scene2C-C1.md)
 
-- [Reaction 2](./scene2C-C2.md)
+- ["Why are you telling me this? I do not know how I have gotten here"](./scene2C-C2.md)
 
-- [Reaction 3](./scene2C-C3.md)
+- [You get up and walk out the Inn.](./scene2C-C3.md)
