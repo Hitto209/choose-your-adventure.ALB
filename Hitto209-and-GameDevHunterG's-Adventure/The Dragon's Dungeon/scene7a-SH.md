@@ -13,7 +13,7 @@ You get yourself seated in the saddle, and you and Rylnel ride south towards the
 
 ---
 
-About 3 hours into the journey, you come across a broken bridge that goes across a river. The river flows swiftly. There's no way you'd be able to swim across. You need to figure out a different way across.
+About 3 hours into the journey, you come across a broken bridge that goes across a 60 foot wide river. The river flows swiftly. There's no way you'd be able to swim across. You need to figure out a different way across.
 
 ## What would you like to do?
 
