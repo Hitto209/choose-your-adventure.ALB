@@ -12,7 +12,7 @@ You figure that Rundrirth must be the dragon's name. If so, these kobolds must w
 
 Before you can finish your sentence, one of the kobolds throws a rock at you with his sling.
 
-## What would you lie to do?
+## What would you like to do?
 
 - [Use *Thunderwave* to force the kobolds out of your way](./scene10a-SH.md)
 - [Use *Invisibilty* to sneak past the kobolds](./scene10b-SH.md)
