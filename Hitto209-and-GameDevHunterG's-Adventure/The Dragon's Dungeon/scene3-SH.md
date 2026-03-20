@@ -20,4 +20,4 @@ You have to do something. You can't let these people lose their homes, and you c
 
 - [Attack Karl](./scene4a-SH.md)
 - [Try your hand at diplomacy](./scene4b-SH.md)
-- [Steal your spellbook back from Karl](./scene4a-SH.md)
+- [Steal your spellbook back from Karl](./scene4c-SH.md)
