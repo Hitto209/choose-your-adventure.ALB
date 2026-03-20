@@ -1,1 +1,0 @@
-# "Why are you telling me this? I do not know how I have gotten here"
