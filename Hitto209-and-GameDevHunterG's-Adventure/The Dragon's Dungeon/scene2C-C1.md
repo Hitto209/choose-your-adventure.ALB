@@ -23,7 +23,7 @@ Myrrine nods
 > You can use the [Dice Roller](https://gamedevhunterg.github.io/dice.html) on the companion site to roll an ability check if you don't have your own dice.
 
 > [!IMPORTANT]
-> Sabtha has a +2 modifier to Constitution checks. Therefore, the outcome is the number rolled on the D20 plus an additional 2.
+> Gwyndolin has a +2 modifier to Constitution checks. Therefore, the outcome is the number rolled on the D20 plus an additional 2.
 
 - [You passed the check](./scene3A-C1.md)
 - [You failed the check](./scene3A-C2.md)

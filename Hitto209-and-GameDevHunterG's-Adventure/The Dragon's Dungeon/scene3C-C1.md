@@ -13,6 +13,9 @@ you look and Myrrine and sigh.
 >What must you have me do?
 
 She nods and smiles pleasently. 
-> There is this Kebloid names Carl. He holds a map that you must retreive. Once you have retreived it. It will reveal what must be done. 
+> There is this Kebloid names Karl. He holds a map that you must retreive. Once you have retreived it. It will reveal what must be done. He lives on a hill past the Inn above a mine. 
 
+You sign and stand up. 
+>Fine I'll go talk to Karl. 
 
+-[You stand up and leave the Inn.](./scene4C-C1.md) 
