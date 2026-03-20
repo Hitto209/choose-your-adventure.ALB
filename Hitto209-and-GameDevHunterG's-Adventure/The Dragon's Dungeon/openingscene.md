@@ -24,4 +24,3 @@ She says.
 
 - ["Sabtha Hunzrar" (Drow- Illusionist Wizard)](./scene1C.md)
 
-- ["Darkahm Strongkin" (Dwarf- Light Domain Cleric)](scene1D.md)
