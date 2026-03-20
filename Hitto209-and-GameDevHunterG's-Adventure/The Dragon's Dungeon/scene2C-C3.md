@@ -13,4 +13,3 @@ Myrrine the Wise looks at you.
 >Leave? No I cannot. I've been searching for you for sometime now. I saw you in a dream. I saw the struggles and horrors you will face. 
 
 -["Fine, what would you like to tell me?"](./scene3C-C1.md)
--[Angerly you yell "LEAVE ME ALONE! and I mean it!" ](./scene3C-C2.md)

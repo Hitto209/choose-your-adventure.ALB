@@ -25,5 +25,5 @@ Myrrine nods
 > [!IMPORTANT]
 > Gwyndolin has a +2 modifier to Constitution checks. Therefore, the outcome is the number rolled on the D20 plus an additional 2.
 
-- [You passed the check](./scene3A-C1.md)
+- [You passed the check](././scene4C-C1.md)
 - [You failed the check](./scene3A-C2.md)
