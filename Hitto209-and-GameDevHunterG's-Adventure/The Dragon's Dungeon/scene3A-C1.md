@@ -1,2 +1,0 @@
-# You passed the check!
-
