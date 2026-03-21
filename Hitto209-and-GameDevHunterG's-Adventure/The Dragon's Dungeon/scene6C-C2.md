@@ -13,4 +13,4 @@ She grabs the book and map from your hand
 >Thank you in completing your first quest! I will call again when I have more information for you!
 
 
-## CONGRATS! YOU HAVE FINSHED THIS QUEST. 
+- [You leave and hunt for the dragon yourself.](./scene7C-C1.md)

@@ -18,8 +18,6 @@ She steps closer and nodes her head low. The other patrons of the Inn start to f
 You step back but the old woman approaches you closer and leans in and whispers.
 >Gwyndolin Dragonfang. You must accept your destiny and redeem your family bloodline. You must! There is no other choice.
 
-___________________________________________
-
 - ["What do I have to do to redeem my bloodline?"](./scene2C-C1.md)
 
 - [You get up and walk out the Inn.](./scene2C-C3.md)
